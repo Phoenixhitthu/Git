@@ -5,9 +5,6 @@ sum=a+b+c
 product=a*b*c
 diff=b-a
 maxi=max(a,b,c)
-mini=min(a,b,c)
-logi=
-print("MIN:",mini)
 print("MAX:",maxi)
 print("SUm is:",sum)
 print("difference of a and b is:",diff)
